@@ -11,7 +11,6 @@
   display: inline-block;
 }
 
-
 .col2{
   height: 100%;
   width: 98%;
@@ -19,6 +18,7 @@
   float: left;
   display: inline-block;
 }
+
 .col3{
   height: 100%;
   width: 32%;
@@ -29,6 +29,7 @@
 body{
   background-color: #2A64FF;
   color: white;
+  text-align: center;
 }
 #box1{
   width: 50%;
